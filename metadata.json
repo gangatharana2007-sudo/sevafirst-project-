@@ -1,0 +1,7 @@
+{
+  "name": "CYBER MIRROR",
+  "description": "Defensive cybersecurity exposure-awareness platform. Understand how publicly visible information connects, identify potential exposure, and strengthen your defensive posture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
